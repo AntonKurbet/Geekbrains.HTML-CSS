@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 16,
+    "editor.minimap.maxColumn": 100,
+    "editor.wordWrap": "bounded"
+}
